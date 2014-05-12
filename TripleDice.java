@@ -41,3 +41,4 @@ public class TripleDice extends Dice
 }
 
 //-- end of TripleDice.java
+// Good job!
